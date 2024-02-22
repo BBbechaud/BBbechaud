@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Brian Bechaud</h1>
-<h3 align="center">A passionate fullstack developer from New Jersey</h3>
+<h3 align="center">A passionate fullstack developer based in St. Petersburg, FL</h3>
 
 - 🔭 I’m currently working on **A fullstack social media app**
 
